@@ -17,3 +17,6 @@ Algunos detalles:
 :warning: **Para todos: La variable `FEX` se utiliza como factor de expansión para el tratamiento de las variables referidas al hogar;**
 
 ![](./img/OMTG.png)  
+
+## Data Cleaning
+Para organizar la base de datos fue hecho una organización y limpieza de datos:
